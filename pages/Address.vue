@@ -178,6 +178,8 @@ const submit = async () => {
 
     isWorking.value = false
 
+    
+
     return navigateTo('/checkout')
 }
 </script>
